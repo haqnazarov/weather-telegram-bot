@@ -1,2 +1,3 @@
 ﻿# weather-telegram-bot
-https://github.com/haqnazarov/weather-telegram-bot/assets/121451457/8c4811c1-1947-4e92-92f9-e6922056d6f6
+
+https://github.com/haqnazarov/weather-telegram-bot/assets/121451457/7e7ed36e-5a06-405a-a8de-4fcd96e7dc36
